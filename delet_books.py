@@ -1,0 +1,2 @@
+def delet():
+    print("rupesh")
